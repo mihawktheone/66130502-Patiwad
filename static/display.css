@@ -1,0 +1,39 @@
+input[type=text], select {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 2px solid #030303;
+    border-radius: 8px;
+    box-sizing: border-box;
+  }
+
+  div {
+    border-radius: 10px;
+    background-color: #c0b5f6;
+    padding: 15px;
+  }
+  
+  input[type=submit] {
+    width: 10%;
+    background-color: #402cef;
+    color: rgb(214, 248, 93);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 25px;
+  }
+
+  span.thick1 {
+    font-weight: italic;
+    color: #0a21f2;
+    font-size: xx-large;
+}
+
+span.thick2 {
+    font-weight: italic;
+    color: #99031f;
+    font-size: xx-large;
+}
